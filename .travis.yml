@@ -1,0 +1,26 @@
+language: node_js
+node_js: stable
+cache:
+  directories:
+  - node_modules
+install:
+- npm install
+before_script:
+- npm install -g gulp
+script:
+- hexo generate
+after_script:
+- cd ./public
+- git init
+- git config user.name "iamzifei"
+- git config user.email "iamzifei@gmail.com"
+- git add .
+- git commit -m "Update docs"
+- git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages
+branches:
+  only:
+  - master
+env:
+  global:
+  - GH_REF: github.com/spingdotcomdotau/blog.git
+  - secure: BcgDaZfvrWZOSX5eFmCKeKVhl4ZhAFSHomfqL8kBsSNMCzEblIMlLWNLzGjlTUFL0Lbq4LCjjFy8dk5SZwNTOgEgBc91A1/EVptOFHP3XMm3ybkGjziO2cZMcgnIAVcXt4wqJDubYUIadC+xkoEf6FahG7BOYFvF45keW8+tn2cn4k675Q05MY4IhTtc7+tI8O1oMCy4a6nnbSqC1uiI3wRvT5rQL9zK5h5NVeOLUuot5QCuDUoRMuqAGNx0levkHiorRx7ZVxkgtgf23mSYKDHx84oKY5uaFlhj80ZKTruSqHE0FbP8K0Z9MsWs7wKGxM6waqy4pER7R1CXBZR6leDOs+gcbXioOIkzU2eHIaiVdzauCcErNT3xaPGZ8uWVquoQy7XzGug1qwv6uMEkoe64jMLrPU1ofHWzzYh+QeymfsQTTU5Z2dB5XtIqRXH4SEmc1QnxNoG49GxRVADenTgTQsGZnSMCSQhwXZXcYQQrSkBrq8KYOYu+kMj47ze809GGbtOAZPv+3PnmQinSAI9vvB3WR9BDuX2ysyviobuIjXnLfYTaR415XD1cANLgFNlFu2NOyip+nQZdB0R/RDDFN6P5HPEvcC0jxvXoaY+OV4g783qWGlHu3EWCrPLyUTKcMOy2+7onlOSxzGKP4O4j0OCl2mojI4/3kMg4/uQ=
