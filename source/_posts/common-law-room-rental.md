@@ -1,5 +1,5 @@
 ---
-title: 转租合约样板
+title: 转租合约模板
 date: 2016-10-02 17:06:45
 permalink: common-law-room-rental
 categories:
@@ -22,7 +22,9 @@ tags:
 
 >  ** -- Suzanne Collins, Mockingjay**
 
-对于二房东和租客来说，有一份合同对双方是约束，也是保障。[大圣租房](http://www.dszf.com.au)提供了一份合约模板以供参考。
+![合同模板](/uploads/2016/10/blog-banner.jpg)
+
+对于二房东和租客来说，有一份合同对双方是约束，也是保障。在新南威尔士州，没有和二房东签订合同的租客，是无法得到新南威尔士州房屋出租法的保护的。[大圣租房](http://www.dszf.com.au)提供了一份合约模板以供参考。
 <!-- more -->
 
 ## 何时使用
@@ -46,9 +48,11 @@ tags:
 [大圣租房](http://www.dszf.com.au)推荐在从二房东处租房的时候，可以选择此合约。
 
 ## 合约模板下载
-[英文版](/uploads/2016/10/common-law-room-rental.pdf)下载。
+大圣租房提供的[英文版](/uploads/2016/10/common-law-room-rental.pdf)下载。
 
-[中文版](/uploads/2016/10/common-law-room-rental-cn.pdf)仅供参考阅读，推荐签署英文版本。
+大圣租房提供的[中文版](/uploads/2016/10/common-law-room-rental-cn.pdf)仅供参考阅读，推荐签署英文版本。
+
+对于新南威尔士州的同学，新南威尔士租客工会提供了一份[模板](https://intranet.tenants.org.au/print/share-housing-agreement.pdf)下载。
 
 ---
 

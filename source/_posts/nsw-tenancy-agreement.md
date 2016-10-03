@@ -1,5 +1,5 @@
 ---
-title: 新南威尔士州租房合同样板
+title: 新南威尔士州租房合同模板
 date: 2016-10-03 22:00:45
 permalink: nsw-tenancy-agreements
 categories:
@@ -20,6 +20,8 @@ tags:
 > "Shakespeare again. Once you let him into your head, he takes up tenancy and will not leave."
 
 >  ** -- Dean Koontz, Odd Hours**
+
+![租房合同模板](/uploads/2016/10/blog-banner.jpg)
 
 如果你是从中介手中Take房子的话（如果不知道自己的出租情况，请看[这里](http://blog.dszf.com.au/2016/09/30/share-accommodation-situation/)），那么一般中介都会有一份正式的出租合同给你签署。然而如果你是从房东/二房东（Head Tenant）处租房的话，那么签署一份租房合同就是非常必要的了。在新南威尔士州，提供一份白纸黑字的租房合同是房东（Landlord）的义务。
 

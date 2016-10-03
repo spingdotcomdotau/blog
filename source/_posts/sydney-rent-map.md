@@ -22,6 +22,8 @@ what happens between two people in a room."
 
 >  ** -- Francis Bacon**
 
+![史上最全悉尼租金地图](/uploads/2016/10/sydney-rent.jpg)
+
 对于房客来说，在预算之内寻找一个合适的区域，有时候会是一件非常费时的事情。
 
 对于房东来说，在一个区域内开一个合适的租金，有时候会是一件非常费时的事情。

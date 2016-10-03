@@ -1,5 +1,5 @@
 ---
-title: NSW州房屋出租合同
+title: 新南威尔士州房屋出租合同
 date: 2016-10-02 15:50:45
 permalink: share-accommodation-situation-nsw
 categories:
@@ -26,6 +26,8 @@ tags:
 > With just this one agreement, you can completely transform your life."
 
 >  ** -- Miguel Ruiz**
+
+![新南威尔士州租房合同](/uploads/2016/10/sydney-contract.jpg)
 
 很久很久以前，<br />在澳洲住着房客和房东<br />...<br />...<br />最后他们过上了幸福快乐的生活。
 

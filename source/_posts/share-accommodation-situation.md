@@ -23,6 +23,8 @@ tags:
 
 >  ** -- Maggie Stiefvater, The Raven Boys**
 
+![悉尼租房](/uploads/2016/10/sydney-night.jpg)
+
 在澳洲，不同州对于租房的法律规定都有细节上的不同。不同身份的房客和房东，他们之间的法律关系也是不同的，快速了解自己和房东的身份，对于双方都更有保障。
 <!-- more -->
 
