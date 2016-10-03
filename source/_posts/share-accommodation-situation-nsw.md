@@ -50,7 +50,7 @@ tags:
 
 ![Tenant and Landlord](/uploads/2016/10/nsw-agreement.001.jpeg)
 
-**合同类型**：新南威尔士州公平交易署（Fair Trading）提供的[标准的住房出租合同](http://www.fairtrading.nsw.gov.au/pdfs/tenants_and_home_owners/residential_tenancy_agreement.pdf)。
+**合同类型**：新南威尔士州公平交易署（Fair Trading）提供的[标准的住房出租合同](http://blog.dszf.com.au/2016/10/03/nsw-tenancy-agreements/)。
 
 ### 联合租客（Co-Tenancy）
 ** 多个人租下整个物业 **
@@ -59,21 +59,21 @@ tags:
 
 如果某个租客想再加一人为联合租客，必须得到房东同意。在NSW州，房东不得无故拒绝，除非物业人数已经超过了合同里上限人数之类。新南威尔士州公平交易署（Fair Trading）提供了增加合租房客的[申请表](http://www.fairtrading.nsw.gov.au/pdfs/About_us/Forms/change_shared_tenancy_arrangement.pdf)。
 
-**合同类型**：新南威尔士州公平交易署（Fair Trading）提供的[标准的住房出租合同](http://www.fairtrading.nsw.gov.au/pdfs/tenants_and_home_owners/residential_tenancy_agreement.pdf)。
+**合同类型**：新南威尔士州公平交易署（Fair Trading）提供的[标准的住房出租合同](http://blog.dszf.com.au/2016/10/03/nsw-tenancy-agreements/)。
 
 ### 转租租客（Sub-Tenancy）
 ** 一个租客从另一名租客（二房东）手中租下物业的某个房间 **
 
 ![Tenant and Landlord](/uploads/2016/10/nsw-agreement.003.jpeg)
 
-**合同类型**：新南威尔士州公平交易署（Fair Trading）提供的[标准的住房出租合同](http://www.fairtrading.nsw.gov.au/pdfs/tenants_and_home_owners/residential_tenancy_agreement.pdf)，**或者**大圣租房提供的[合约模板](http://blog.dszf.com.au/2016/10/02/common-law-room-rental/)（**推荐**）。
+**合同类型**：新南威尔士州公平交易署（Fair Trading）提供的[标准的住房出租合同](http://blog.dszf.com.au/2016/10/03/nsw-tenancy-agreements/)，**或者**大圣租房提供的[合约模板](http://blog.dszf.com.au/2016/10/02/common-law-room-rental/)（**推荐**）。
 
 ### 房东同住（Share Accommodation）
 ** 一个或多个租客和房东同住 **
 
 ![Tenant and Landlord](/uploads/2016/10/nsw-agreement.004.jpeg)
 
-**合同类型**：新南威尔士州公平交易署（Fair Trading）提供的[标准的住房出租合同](http://www.fairtrading.nsw.gov.au/pdfs/tenants_and_home_owners/residential_tenancy_agreement.pdf)，**或者**大圣租房提供的[合约模板](http://blog.dszf.com.au/2016/10/02/common-law-room-rental/)（**推荐**）。
+**合同类型**：新南威尔士州公平交易署（Fair Trading）提供的[标准的住房出租合同](http://blog.dszf.com.au/2016/10/03/nsw-tenancy-agreements/)，**或者**大圣租房提供的[合约模板](http://blog.dszf.com.au/2016/10/02/common-law-room-rental/)（**推荐**）。
 
 ### 寄宿（Rooming/Boarding）
 ** 房客搬进专门用来做房间出租的物业 **
