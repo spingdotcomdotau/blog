@@ -1,5 +1,5 @@
 ---
-title: 新南威尔士州租房指南 - 维修
+title: 新南威尔士州租房指南 - 维修和查房
 date: 2016-10-03 23:51:45
 permalink: nsw-tenant-repair
 categories:

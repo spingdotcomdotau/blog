@@ -1,5 +1,5 @@
 ---
-title: 新南威尔士州租户权利简介
+title: 新南威尔士州租房指南 - 租客权利
 date: 2016-10-03 23:38:45
 permalink: nsw-tenant-rights
 categories:

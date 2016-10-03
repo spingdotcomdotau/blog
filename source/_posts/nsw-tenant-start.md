@@ -1,5 +1,5 @@
 ---
-title: 新南威尔士州租房指南 - 开始
+title: 新南威尔士州租房指南 - 开始租房
 date: 2016-10-03 23:41:45
 permalink: nsw-tenant-start
 categories:
