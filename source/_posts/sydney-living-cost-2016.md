@@ -3,7 +3,7 @@ title: 悉尼2016年学生生活成本
 date: 2016-10-03 23:14:45
 permalink: sydney-living-cost-2016
 categories:
-- 租房那些事儿
+- 澳洲什么样儿
 tags:
 - 租房
 - 生活
