@@ -1,6 +1,6 @@
 ---
 title: 工资标准（试运行）
-date: 2016-11-16 14:06:27
+date: 2016-09-16 14:06:27
 permalink: salary
 comments: false
 visible: hide
